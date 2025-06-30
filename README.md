@@ -205,7 +205,7 @@ void loop() {
 ## 📄 License
 
 This library is licensed under the MIT License.  
-© 2025 [Erfan Ganji](https://github.com/YOUR_USERNAME)
+© 2025 [Erfan Ganji](https://github.com/ErfanGanji87/ESP32Dashboard)
 
 ---
 
