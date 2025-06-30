@@ -1,0 +1,17 @@
+ESP32Dashboard	KEYWORD1
+addTemperatureCard	KEYWORD2
+addHumidityCard	KEYWORD2
+addMotorRPMCard	KEYWORD2
+addPercentageCard	KEYWORD2
+addCustomCard	KEYWORD2
+addStatusCard	KEYWORD2
+addChartCard	KEYWORD2
+addButton	KEYWORD2
+addSwitch	KEYWORD2
+addSlider	KEYWORD2
+addPowerButton	KEYWORD2
+updateCard	KEYWORD2
+begin	KEYWORD2
+setTitle	KEYWORD2
+setUpdateInterval	KEYWORD2
+loop	KEYWORD2
